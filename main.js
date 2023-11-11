@@ -1,4 +1,4 @@
-const api = "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";
+const api = "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";
 
 
 const inp = document.getElementById('inp');
